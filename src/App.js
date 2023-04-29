@@ -49,7 +49,7 @@ function App() {
         </div>
         <footer>
         <div class="text">
-        <p>Developed with ❤ by <a href="https://github.com/NandhipatiGanesh" target="_blank">Ganesh Kumar</a></p>
+        <p>Developed with ❤ by <a href="https://github.com/NandhipatiGanesh" target="_blank" rel="noreferrer">Ganesh Kumar</a></p>
                 </div>
              
         { /*code*/ }
