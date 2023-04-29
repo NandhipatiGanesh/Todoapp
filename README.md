@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This TodoApp Preview:- https://gregarious-sfogliatella-81a818.netlify.app/
+
+Function code taken  from Codebucks and implemented and  deployed by me follow below steps to create yours 
+
 ## Available Scripts
 
 In the project directory, you can run:
